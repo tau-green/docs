@@ -8,4 +8,4 @@ ___
 
 #### Have a question?
 
-Open a [new issue](/issues/new) or contact us directly at info@tau.green.
+Open a [new issue](https://github.com/tau-green/docs/issues/new) or contact us directly at info@tau.green.
